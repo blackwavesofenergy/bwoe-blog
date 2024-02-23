@@ -1,0 +1,57 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-gb'
+title = 'bwoe'
+theme = 'hugo.386-bwoe-modified'
+
+[params]
+    mainpagetitle = 'Welcome To The Blog'
+    mainpagesubtitle = 'note: this is still a work in progress.'
+    mainpagedesc = ''
+
+    copyrightname = 'bwoe'
+    showhugo = false
+
+    loadfastload = false
+    loadspeedfactor = 2.0
+    loadonepass = true
+
+[params.copyright]
+    name = 'bwoe'
+    prefix = 'return to [bwoe](https://bwoe.uk)'
+
+[menu]
+    [[menu.main]]
+        identifier = "about" # An unique identifier for the button
+        name = "about"       # A display name for the button
+        url = "/about/"      # The path to the content. It can lead to a single page (like here)
+        weight = 10          # A number to order the buttons in the navbar
+
+[taxonomies]
+    tag = "tags"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true

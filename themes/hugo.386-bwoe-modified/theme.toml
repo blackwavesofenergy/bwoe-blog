@@ -1,0 +1,13 @@
+name = "hugo.386-bwoe-modified"
+license = "Apache 2"
+licenselink = "//gitlab.com/maxlefou/hugo.386/blob/master/LICENSE"
+description = "A modified version of JM Fergeau'"
+
+[author]
+  name = "bwoe"
+  homepage = "https://bwoe.uk"
+
+[original]
+  name = "JM Fergeau"
+  homepage = "//jmf-portfolio.netlify.com"
+  repo = "https://gitlab.com/jmfergeau/hugo.386"
