@@ -221,13 +221,36 @@ textarea {
   }
 }
 
+/* font settings */
+
 @font-face {
   font-family: 'Teletext';
   font-style: normal;
   font-weight: normal;
   src: url('fonts/Teletext.otf');
-  /* src: local('☺'), url('fonts/Fixedsys500c.woff') format('woff'), url('fonts/Fixedsys500c.ttf') format('truetype'), url('fonts/Fixedsys500c.svg') format('svg'); */
 }
+
+@font-face {
+  font-family: 'TeletextSemiCondensed';
+  font-style: normal;
+  font-weight: normal;
+  src: url('fonts/TeletextSemiCondensed.otf');
+}
+
+@font-face {
+  font-family: 'TeletextCondensed';
+  font-style: normal;
+  font-weight: normal;
+  src: url('fonts/TeletextCondensed.otf');
+}
+
+@font-face {
+  font-family: 'TeletextExtended';
+  font-style: normal;
+  font-weight: normal;
+  src: url('fonts/TeletextExtended.otf');
+}
+
 
 body {
   margin: 0;
@@ -400,7 +423,7 @@ a:focus {
 
 .row-fluid p {
   color: white;
-  letter-spacing: -0.4px !important;
+  font-family: TeletextSemiCondensed;
 }
 
 .row-fluid ul {
@@ -679,6 +702,7 @@ p {
   font-size: 18px;
   color: #ffffff;
   border: 2px solid #bbbbbb;
+  font-family: TeletextExtended;
 }
 
 small {
@@ -859,6 +883,8 @@ h4 small {
   font-size: 18px;
 }
 
+/* page header settings */
+
 .page-header {
   padding: 20px 20px;
   margin: 20px 0 20px;
@@ -868,11 +894,14 @@ h4 small {
 .page-header h1 {
   color: #000000;
   font-size: 200% !important;
+  letter-spacing: 5px;
 }
 
 .page-header span {
-  font-size: 50% !important;
+  font-size: 40% !important;
   vertical-align: middle;
+  letter-spacing: 0;
+  margin-left: -20px;
 }
 
 ul,
