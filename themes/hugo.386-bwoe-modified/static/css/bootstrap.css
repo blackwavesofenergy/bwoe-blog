@@ -392,7 +392,7 @@ a:focus {
 }
 
 .row-fluid h1 {
-  font-size: 155%;
+  font-size: 200%;
 }
 
 .row-fluid p {
@@ -808,8 +808,8 @@ h3:after {
 }
 
 h1 {
-  font-size: 18px;
-  font-variant: small-caps;
+  font-size: 24px;
+  text-transform: uppercase;
 }
 
 h2 {
@@ -885,6 +885,7 @@ li {
   margin-left: 0;
   line-height: 20px;
   list-style: none;
+  font-variant: small-caps !important;
 }
 
 ul.unstyled,
