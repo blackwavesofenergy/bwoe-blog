@@ -386,17 +386,25 @@ a:focus {
   margin-left: 96px;
 }
 
+/* row-fluid settings */
+
 .row-fluid {
   width: 100%;
   *zoom: 1;
 }
 
 .row-fluid h1 {
-  font-size: 200%;
+  font-size: 150%;
 }
+
 
 .row-fluid p {
   color: white;
+  letter-spacing: -0.4px !important;
+}
+
+.row-fluid ul {
+  padding-top: 10px;
 }
 
 .row-fluid:before,
@@ -808,7 +816,7 @@ h3:after {
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 18px;
   text-transform: uppercase;
 }
 
@@ -859,7 +867,7 @@ h4 small {
 
 .page-header h1 {
   color: #000000;
-  font-size: 150%;
+  font-size: 200% !important;
 }
 
 .page-header span {
@@ -885,7 +893,6 @@ li {
   margin-left: 0;
   line-height: 20px;
   list-style: none;
-  font-variant: small-caps !important;
 }
 
 ul.unstyled,
