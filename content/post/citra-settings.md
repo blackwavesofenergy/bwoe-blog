@@ -28,3 +28,23 @@ Touch screen mappings should be used for bell (fast travel) and equipment. The m
 - Other screen: small or disabled
 
 Almost everything happens on the top screen. Map d-pad to left stick and circle pad to right stick for camera control.
+
+# Shin Megami Tensei: Devil Survivor Overclocked
+
+- Main screen: bottom
+- Other screen: small or disabled
+
+Almost everything happens in the bottom screen, but the top screen is used to see stats, so it still might be useful.
+
+# Puyo Puyo Chronicles
+
+- Put screens side by side
+
+Cutscenes and overworld are on the main screen, but actual battles (and the map) are on the bottom screen, so you'll need either both side by side or switch frequently.
+
+# Shin Megami Tensei IV
+
+- Main screen: top
+- Other screen: picture-in-picture
+
+The top screen is used for dialogue, cutscenes and the overworld, while the bottom screen is used for the map and menus. Using picture-in-picture should solve this conundrum for the most part without the ugliness of side-by-side.
