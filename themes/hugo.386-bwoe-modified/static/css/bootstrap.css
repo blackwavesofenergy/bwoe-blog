@@ -694,7 +694,7 @@ img {
 }
 
 p {
-  margin: 0 0 20px;
+  margin: 20px 0 20px 0;
 }
 
 .lead {
@@ -1071,7 +1071,7 @@ code,
 pre {
   padding: 0;
   font-family: Teletext, monospace;
-  font-size: 18px;
+  font-size: 14px;
   color: #555555;
   -webkit-border-radius: 0;
      -moz-border-radius: 0;
