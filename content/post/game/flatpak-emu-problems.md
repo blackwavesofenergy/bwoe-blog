@@ -1,5 +1,5 @@
 +++
-title = 'The Flatpak Emu Problems of March 2024'
+title = 'Flatpak Emu Problems of March 2024'
 date = 2024-03-03T18:09:36Z
 draft = false
 tags = ['game-stuff',]

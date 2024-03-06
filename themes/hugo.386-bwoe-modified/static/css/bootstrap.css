@@ -843,6 +843,7 @@ h3:after {
 h1 {
   font-size: 18px;
   text-transform: uppercase;
+  line-height: 29px;
 }
 
 h2 {
@@ -1082,7 +1083,6 @@ code {
   padding: 0;
   color: #ffffff;
   white-space: nowrap;
-  background-color: #000000;
   border: 0;
 }
 
@@ -1113,7 +1113,6 @@ pre code {
   color: inherit;
   white-space: pre;
   white-space: pre-wrap;
-  background-color: transparent;
   border: 0;
 }
 
