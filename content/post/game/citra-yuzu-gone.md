@@ -2,6 +2,7 @@
 title = 'Citra and Yuzu are gone'
 date = 2024-03-04T23:25:11Z
 draft = false
+tags = ['game-stuff',]
 +++
 
 Well, damn. It was [literally just yesterday](../flatpak-emu-problems) that I uploaded about emulation problems, but now we have a different type of emulation problem: Citra and Yuzu are gone.

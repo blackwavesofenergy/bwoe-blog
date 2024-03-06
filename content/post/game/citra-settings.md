@@ -3,7 +3,7 @@ title = 'Settings for Citra'
 date = 2024-02-23T20:33:14Z
 draft = false
 description = 'These are my preferred settings for Citra.'
-tags = ['game stuff',]
+tags = ['game-stuff',]
 +++
 
 Playing 3DS games on a single screen can be tough. The vertical form factor of the 3DS makes gaming quite the challenge when emulating. So, these are my preferred Citra settings. Feel free to use or improve them.
