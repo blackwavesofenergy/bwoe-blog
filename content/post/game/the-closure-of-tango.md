@@ -3,6 +3,7 @@ title = 'The Closure of Tango Gameworks and What It Means For The Gaming Industr
 date = 2024-05-08T18:20:23+01:00
 draft = false
 description = 'The fatigue is back.'
+tags = ['game-stuff',]
 
 +++
 

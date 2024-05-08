@@ -30,6 +30,11 @@ theme = 'hugo.386-bwoe-modified'
       name = "game"
       url = "/tags/game-stuff"
       weight = 20
+    [[menu.main]]
+      identifer = "net"
+      name = "net"
+      url = "/tags/net-stuff"
+      weight = 30
 
 [taxonomies]
     tag = "tags"
