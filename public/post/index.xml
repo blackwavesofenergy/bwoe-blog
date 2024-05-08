@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on bwoe</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on bwoe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 08 May 2024 18:20:23 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Closure of Tango and what it means for the Industry</title>
+      <link>http://localhost:1313/post/game/the-closure-of-tango/</link>
+      <pubDate>Wed, 08 May 2024 18:20:23 +0100</pubDate>
+      <guid>http://localhost:1313/post/game/the-closure-of-tango/</guid>
+      <description>The fatigue is back.&#xA;In early 2023, I felt like gaming wasn&amp;rsquo;t fun anymore. I knew it was a common fatigue though, and that there&amp;rsquo;ll be a game that I&amp;rsquo;ll play soon that would inject that fun and soul only the medium could provide. That happened when Hi-Fi Rush shadow dropped in January 2023. With its gorgeous Futurama-esque aesthetics and comedic tone and excellent reviews, I bought it and fell in love immediately.</description>
+    </item>
+    <item>
+      <title>Citra and Yuzu are gone</title>
+      <link>http://localhost:1313/post/game/citra-yuzu-gone/</link>
+      <pubDate>Mon, 04 Mar 2024 23:25:11 +0000</pubDate>
+      <guid>http://localhost:1313/post/game/citra-yuzu-gone/</guid>
+      <description>Well, damn. It was literally just yesterday that I uploaded about emulation problems, but now we have a different type of emulation problem: Citra and Yuzu are gone.&#xA;This is relevant because I was talking about a fatal bug for Dolphin, which also affected Citra (and RPCS3). The fix for Citra was uploaded LITERALLY YESTERDAY, meaning had the Citra/Yuzu team (the same dev team) hadn&amp;rsquo;t updated it, the last version of Citra on Flathub would be forever unbootable.</description>
+    </item>
+    <item>
+      <title>Flatpak Emu Problems of March 2024</title>
+      <link>http://localhost:1313/post/game/flatpak-emu-problems/</link>
+      <pubDate>Sun, 03 Mar 2024 18:09:36 +0000</pubDate>
+      <guid>http://localhost:1313/post/game/flatpak-emu-problems/</guid>
+      <description>So recently, there was some bizarre emulation problems. The issue didn&amp;rsquo;t come with the Steam Deck, or EmuDeck, but with the emulators themselves, specifically the Flatpak version commonly used in Linux.&#xA;Dolphin, RPCS3, and Citra all were nonfunctional out of nowhere. Citra was quickly patched, but Dolphin and RPCS3 are still unable to boot as of this post. Booting them reveals no error message or dumped log. Booting them via CLI (i.</description>
+    </item>
+    <item>
+      <title>Settings for Citra</title>
+      <link>http://localhost:1313/post/game/citra-settings/</link>
+      <pubDate>Fri, 23 Feb 2024 20:33:14 +0000</pubDate>
+      <guid>http://localhost:1313/post/game/citra-settings/</guid>
+      <description>Playing 3DS games on a single screen can be tough. The vertical form factor of the 3DS makes gaming quite the challenge when emulating. So, these are my preferred Citra settings. Feel free to use or improve them.&#xA;Picross 3D Main screen: bottom Other screen: small or disabled Use a mouse and keyboard for this one, with d-pad and L buttons being used for controls. Other screen is not required.</description>
+    </item>
+    <item>
+      <title>The Closure of Tango Gameworks and what it means for the gaming industry</title>
+      <link>http://localhost:1313/post/game/gaming-industry-rant/</link>
+      <pubDate>Fri, 23 Feb 2024 20:33:14 +0000</pubDate>
+      <guid>http://localhost:1313/post/game/gaming-industry-rant/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/post/hello-world/</link>
+      <pubDate>Fri, 23 Feb 2024 16:10:30 +0000</pubDate>
+      <guid>http://localhost:1313/post/hello-world/</guid>
+      <description>Hello World!&#xA;Tables of Contents Headers Emphasis Lists Links and Images Code Blocks Blockquotes Tables Horizontal Rules Line Breaks Escaping Characters Inline HTML Task Lists Subscripts and Superscripts Footnotes Automatic URL Linking Strikethrough Tables of Contents Headers Header 1 Header 2 Header 3 Header 4 Emphasis Bold text. Italic text. Bold and italic.&#xA;Lists Ordered list item 1. Ordered list item 2. Unordered list item 1 Unordered list item 2 Links and Images Link to Google Code Blocks public static void main(String[] args) { System.</description>
+    </item>
+  </channel>
+</rss>

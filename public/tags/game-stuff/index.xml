@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game-Stuff on bwoe</title>
+    <link>http://localhost:1313/tags/game-stuff/</link>
+    <description>Recent content in Game-Stuff on bwoe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 04 Mar 2024 23:25:11 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/game-stuff/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Citra and Yuzu are gone</title>
+      <link>http://localhost:1313/post/game/citra-yuzu-gone/</link>
+      <pubDate>Mon, 04 Mar 2024 23:25:11 +0000</pubDate>
+      <guid>http://localhost:1313/post/game/citra-yuzu-gone/</guid>
+      <description>Well, damn. It was literally just yesterday that I uploaded about emulation problems, but now we have a different type of emulation problem: Citra and Yuzu are gone.&#xA;This is relevant because I was talking about a fatal bug for Dolphin, which also affected Citra (and RPCS3). The fix for Citra was uploaded LITERALLY YESTERDAY, meaning had the Citra/Yuzu team (the same dev team) hadn&amp;rsquo;t updated it, the last version of Citra on Flathub would be forever unbootable.</description>
+    </item>
+    <item>
+      <title>Flatpak Emu Problems of March 2024</title>
+      <link>http://localhost:1313/post/game/flatpak-emu-problems/</link>
+      <pubDate>Sun, 03 Mar 2024 18:09:36 +0000</pubDate>
+      <guid>http://localhost:1313/post/game/flatpak-emu-problems/</guid>
+      <description>So recently, there was some bizarre emulation problems. The issue didn&amp;rsquo;t come with the Steam Deck, or EmuDeck, but with the emulators themselves, specifically the Flatpak version commonly used in Linux.&#xA;Dolphin, RPCS3, and Citra all were nonfunctional out of nowhere. Citra was quickly patched, but Dolphin and RPCS3 are still unable to boot as of this post. Booting them reveals no error message or dumped log. Booting them via CLI (i.</description>
+    </item>
+    <item>
+      <title>Settings for Citra</title>
+      <link>http://localhost:1313/post/game/citra-settings/</link>
+      <pubDate>Fri, 23 Feb 2024 20:33:14 +0000</pubDate>
+      <guid>http://localhost:1313/post/game/citra-settings/</guid>
+      <description>Playing 3DS games on a single screen can be tough. The vertical form factor of the 3DS makes gaming quite the challenge when emulating. So, these are my preferred Citra settings. Feel free to use or improve them.&#xA;Picross 3D Main screen: bottom Other screen: small or disabled Use a mouse and keyboard for this one, with d-pad and L buttons being used for controls. Other screen is not required.</description>
+    </item>
+  </channel>
+</rss>
