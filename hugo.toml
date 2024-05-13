@@ -35,6 +35,11 @@ theme = 'hugo.386-bwoe-modified'
       name = "net"
       url = "/tags/net-stuff"
       weight = 30
+    [[menu.main]]
+     identifer = "photo"
+     name = "photo"
+     url = "/tags/photo-stuff"
+     weight = 40
 
 [taxonomies]
     tag = "tags"

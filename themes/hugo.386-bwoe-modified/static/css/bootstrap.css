@@ -685,13 +685,13 @@ a:focus {
   clear: both;
 }
 
-img {
+/* img {
   -webkit-filter: contrast(800%);
      -moz-filter: contrast(1000%);
       -ms-filter: contrast(800%);
        -o-filter: contrast(800%);
           filter: contrast(1000%);
-}
+} */
 
 p {
   margin: 20px 0 20px 0;
