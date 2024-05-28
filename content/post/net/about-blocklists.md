@@ -5,7 +5,7 @@ draft = false
 tags = ['net-stuff',]
 +++
 
-In an [earlier post](../the-internet-is-hell.md), I explained how I used Cold Turkey Blocker to keep me sane. Today I'll go over the blocklists I use and how I cycle between them for maximum efficiency and sanity-preservation.
+In an [earlier post](../the-internet-is-hell), I explained how I used Cold Turkey Blocker to keep me sane. Today I'll go over the blocklists I use and how I cycle between them for maximum efficiency and sanity-preservation.
 
 - Digital Duloxetine
 This blocklist is permanent, 24/7, until Cold Turkey is uninstalled (in other words, a system reset). It consists of of over 500 websites, ranging from garbage clickbait sites to pornography to central social media platforms to news outlets and beyond. There is no way to access these sites, so I can't access them whatsoever. Good!
