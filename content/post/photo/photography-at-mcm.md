@@ -13,4 +13,6 @@ Oh well. Here's some photos of my results:
 ![](https://i.imgur.com/JRohMFI.jpeg)
 ![](https://i.imgur.com/SM7zRmk.jpeg)
 
-You can see the rest of the photos [on my Flickr.](https://www.flickr.com/photos/blackwavesofenergy/albums/72177720317373236)
+You can see the rest of the photos from this year's MCM Comic Con [on my Flickr.](https://www.flickr.com/photos/blackwavesofenergy/albums/72177720317373236)
+
+For my photos from *last year's* event, [see here.](https://flickr.com/photos/blackwavesofenergy/albums/72177720317459437)
