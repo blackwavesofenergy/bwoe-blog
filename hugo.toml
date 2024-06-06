@@ -40,6 +40,11 @@ theme = 'hugo.386-bwoe-modified'
      name = "photo"
      url = "/tags/photo-stuff"
      weight = 40
+     [[menu.main]]
+     identifer = "other"
+     name = "other"
+     url = "/tags/other-stuff"
+     weight = 50
 
 [taxonomies]
     tag = "tags"
