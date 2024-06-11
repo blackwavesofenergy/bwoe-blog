@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other-Stuff on bwoe</title>
+    <link>http://localhost:1313/tags/other-stuff/</link>
+    <description>Recent content in Other-Stuff on bwoe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 11 Jun 2024 19:16:08 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/other-stuff/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Worried Since 2019</title>
+      <link>http://localhost:1313/post/other/worried-since-2019/</link>
+      <pubDate>Tue, 11 Jun 2024 19:16:08 +0100</pubDate>
+      <guid>http://localhost:1313/post/other/worried-since-2019/</guid>
+      <description>One of my biggest faults is that I worry way too much. I think a lot of that has to do with OCD, but after months and months of fluoxetine treatment, I think there&amp;rsquo;s something bigger at play. A lot of the time, my worries are realized. I worried in 2019 about the centralised Web and the existence of algorithmic radicalisation. In worried in 2020 about the impact of COVID. I worried in 2021 and 2022 about post-pandemic malaise, and that virulent populism will surge as a result of widespread vaccine controversy.</description>
+    </item>
+    <item>
+      <title>Phantom Pain</title>
+      <link>http://localhost:1313/post/other/phantom-pain/</link>
+      <pubDate>Thu, 06 Jun 2024 15:22:50 +0100</pubDate>
+      <guid>http://localhost:1313/post/other/phantom-pain/</guid>
+      <description>I haven&amp;rsquo;t updated the blog in a while because I was sick for a while - aches and headaches all over. But today I feel normal. And of course, when there&amp;rsquo;s fever, there&amp;rsquo;s fever dreams. And last night&amp;rsquo;s fever dream was something else.&#xA;Basically, I was panicking because of university deadlines. I was thinking to myself, what if I repeat the year again? How can I be 20+ years and still in university?</description>
+    </item>
+    <item>
+      <title>The Black Waves</title>
+      <link>http://localhost:1313/post/other/the-black-waves/</link>
+      <pubDate>Fri, 31 May 2024 16:24:45 +0100</pubDate>
+      <guid>http://localhost:1313/post/other/the-black-waves/</guid>
+      <description>In the beginning of 2023, I brought a sparkling new Macbook Pro and a subscription to Day One, and started a blog - Magdi Battles the Black Waves. It was intended to last for a year, but I only managed to keep track until August.&#xA;This was intended not for entertainment, but to help me manage my life. bwoe stands for &amp;lsquo;Black Waves of Energy&amp;rsquo;. What are black waves of energy?</description>
+    </item>
+  </channel>
+</rss>
