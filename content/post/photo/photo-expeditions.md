@@ -15,6 +15,8 @@ My most recent expedition as of today was to *Merstham and Reigate*, along the N
 
 The only problem with these expeditions is that I can only do so many. I need the natural light, and while I am willing to harm my body for such rewards, it can only toil for so long before I need rest. And when I rest, I face constant fears of the black waves. Not only that, but the best places for such expeditions are under select criteria: empty (I need the tranquility of solitude - even one jogger interrupts), having walkable areas with no country roads (I hate walking on the road shoulder), have plenty of interesting things to shoot (I'm kind of sick of the usual green landscapes), etc. And unfortunately, that list is dwindling by the day, at least affordably - fuck British train fees!
 
+You can see more photos [on my Flickr](https://flickr.com/blackwavesofenergy/) as usual.
+
 Other memorable expeditions:
 
 - [Whiteleaf Cross (May 9, 2024)](https://flickr.com/photos/blackwavesofenergy/53739807342/in/dateposted/)
