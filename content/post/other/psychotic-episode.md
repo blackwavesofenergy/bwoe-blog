@@ -1,7 +1,7 @@
 +++
 title = 'Psychotic Episode'
 date = 2024-07-15T19:21:46+01:00
-draft = false
+draft = true
 tags = ['other-stuff',]
 +++
 
