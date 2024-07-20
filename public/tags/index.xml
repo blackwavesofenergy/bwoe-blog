@@ -4,22 +4,22 @@
     <title>Tags on bwoe</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on bwoe</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 24 Jun 2024 17:08:18 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 16:36:27 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photo-Stuff</title>
       <link>http://localhost:1313/tags/photo-stuff/</link>
-      <pubDate>Mon, 24 Jun 2024 17:08:18 +0100</pubDate>
+      <pubDate>Mon, 08 Jul 2024 16:36:27 +0100</pubDate>
       <guid>http://localhost:1313/tags/photo-stuff/</guid>
       <description></description>
     </item>
     <item>
-      <title>Net-Stuff</title>
-      <link>http://localhost:1313/tags/net-stuff/</link>
-      <pubDate>Wed, 19 Jun 2024 16:31:03 +0100</pubDate>
-      <guid>http://localhost:1313/tags/net-stuff/</guid>
+      <title>Other-Stuff</title>
+      <link>http://localhost:1313/tags/other-stuff/</link>
+      <pubDate>Wed, 03 Jul 2024 14:06:35 +0100</pubDate>
+      <guid>http://localhost:1313/tags/other-stuff/</guid>
       <description></description>
     </item>
     <item>
@@ -30,10 +30,10 @@
       <description></description>
     </item>
     <item>
-      <title>Other-Stuff</title>
-      <link>http://localhost:1313/tags/other-stuff/</link>
-      <pubDate>Tue, 11 Jun 2024 19:16:08 +0100</pubDate>
-      <guid>http://localhost:1313/tags/other-stuff/</guid>
+      <title>Net-Stuff</title>
+      <link>http://localhost:1313/tags/net-stuff/</link>
+      <pubDate>Sun, 09 Jun 2024 20:23:18 +0100</pubDate>
+      <guid>http://localhost:1313/tags/net-stuff/</guid>
       <description></description>
     </item>
   </channel>

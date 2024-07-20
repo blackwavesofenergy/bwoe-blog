@@ -4,10 +4,17 @@
     <title>Photo-Stuff on bwoe</title>
     <link>http://localhost:1313/tags/photo-stuff/</link>
     <description>Recent content in Photo-Stuff on bwoe</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 24 Jun 2024 17:08:18 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 16:36:27 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/photo-stuff/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wetland Expedition</title>
+      <link>http://localhost:1313/post/photo/wetland-expedition/</link>
+      <pubDate>Mon, 08 Jul 2024 16:36:27 +0100</pubDate>
+      <guid>http://localhost:1313/post/photo/wetland-expedition/</guid>
+      <description>As promised previously, I went another expedition after seeing the sun out; this time. While listening to the beautiful Wave Race 64 soundtrack, I spent a day at the WWT London Wetland Centre. It&amp;rsquo;s hard to call it an &amp;rsquo;expedition&amp;rsquo; when it&amp;rsquo;s still in London, but I recently bought a 70-300mm telephoto lenses, and by God I was going to use it.&#xA;Here&amp;rsquo;s the results:&#xA;Wildlife photography is pretty fun, a lot more unique than my usual landscapes.</description>
+    </item>
     <item>
       <title>Photo Expeditions</title>
       <link>http://localhost:1313/post/photo/photo-expeditions/</link>
