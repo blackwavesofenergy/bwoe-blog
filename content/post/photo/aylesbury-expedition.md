@@ -16,3 +16,5 @@ I thought my trip was sabotaged, since my planned route was blocked by HS2 const
 I did however, notice that my camera/lenses were a bit misaligned. My viewfinder is blurry, noticeable chromatic aberration, etc... I'll get it fixed some time, but I don't have time right now since I need to take the maximum advantage of summer; all this beautiful natural light can't go to waste.
 
 If the weather is right, my next expedition should be on the 5th. We'll see.
+
+You can see more photos [on my Flickr](https://flickr.com/blackwavesofenergy/).
