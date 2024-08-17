@@ -10,7 +10,6 @@ theme = 'hugo.386-bwoe-modified'
 
     copyrightname = 'bwoe'
     showhugo = false
-    paginate = 15
 
     loadfastload = false
     loadspeedfactor = 2.0
