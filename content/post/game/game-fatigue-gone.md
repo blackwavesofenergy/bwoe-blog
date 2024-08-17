@@ -1,6 +1,6 @@
 +++
 title = 'Game Fatigue Ends'
-date = 2024-08-17T16:05:26+01:00
+date = 2024-08-16T16:05:26+01:00
 draft = false
 tags = ['game-stuff',]
 +++
