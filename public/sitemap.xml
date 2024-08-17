@@ -2,26 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-08-17T16:05:26+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/game/game-fatigue-gone/</loc>
+    <lastmod>2024-08-17T16:05:26+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/game-stuff/</loc>
+    <lastmod>2024-08-17T16:05:26+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-08-17T16:05:26+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-17T16:05:26+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/other/a-much-needed-update/</loc>
+    <lastmod>2024-08-17T16:05:12+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/other-stuff/</loc>
+    <lastmod>2024-08-17T16:05:12+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/photo/aylesbury-expedition/</loc>
     <lastmod>2024-08-03T16:21:39+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-03T16:21:39+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-08-03T16:21:39+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/photo-stuff/</loc>
-    <lastmod>2024-07-20T14:55:11+01:00</lastmod>
+    <lastmod>2024-08-03T16:21:39+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/photo/purfleet-expedition/</loc>
     <lastmod>2024-07-20T14:55:11+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-20T14:55:11+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/other-stuff/</loc>
-    <lastmod>2024-07-15T19:21:46+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/other/psychotic-episode/</loc>
     <lastmod>2024-07-15T19:21:46+01:00</lastmod>
@@ -36,9 +45,6 @@
     <lastmod>2024-06-24T17:08:18+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/game/game-fatigue-continues/</loc>
-    <lastmod>2024-06-13T15:22:23+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/game-stuff/</loc>
     <lastmod>2024-06-13T15:22:23+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/game/play-videoverse/</loc>

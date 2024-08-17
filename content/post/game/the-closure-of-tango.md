@@ -2,7 +2,7 @@
 title = 'The Closure of Tango Gameworks'
 date = 2024-05-08T18:20:23+01:00
 draft = false
-description = 'The fatigue is back.'
+description = 'Please note that this was written on May 2024, a few months before Tango Gameworks was reacquired by Krafton.'
 tags = ['game-stuff',]
 
 +++
