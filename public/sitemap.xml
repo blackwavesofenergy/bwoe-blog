@@ -2,31 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/post/photo/barred-from-expeditions/</loc>
+    <lastmod>2024-08-21T17:31:06+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-17T16:05:26+01:00</lastmod>
+    <lastmod>2024-08-21T17:31:06+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/game/game-fatigue-gone/</loc>
-    <lastmod>2024-08-17T16:05:26+01:00</lastmod>
+    <loc>http://localhost:1313/tags/other-stuff/</loc>
+    <lastmod>2024-08-21T17:31:06+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/game-stuff/</loc>
-    <lastmod>2024-08-17T16:05:26+01:00</lastmod>
+    <loc>http://localhost:1313/tags/photo-stuff/</loc>
+    <lastmod>2024-08-21T17:31:06+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-08-17T16:05:26+01:00</lastmod>
+    <lastmod>2024-08-21T17:31:06+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-08-17T16:05:26+01:00</lastmod>
+    <lastmod>2024-08-21T17:31:06+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/other/a-much-needed-update/</loc>
     <lastmod>2024-08-17T16:05:12+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/other-stuff/</loc>
-    <lastmod>2024-08-17T16:05:12+01:00</lastmod>
+    <loc>http://localhost:1313/post/game/game-fatigue-gone/</loc>
+    <lastmod>2024-08-16T16:05:26+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/game-stuff/</loc>
+    <lastmod>2024-08-16T16:05:26+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/photo/aylesbury-expedition/</loc>
-    <lastmod>2024-08-03T16:21:39+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/photo-stuff/</loc>
     <lastmod>2024-08-03T16:21:39+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/photo/purfleet-expedition/</loc>
