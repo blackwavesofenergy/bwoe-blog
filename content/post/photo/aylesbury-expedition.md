@@ -9,9 +9,9 @@ On 30 July, I went on another photography expedition. I wanted to go to Hastings
 
 I thought my trip was sabotaged, since my planned route was blocked by HS2 construction work. Funny, since HS2 is never fucking happening. But I eventually found a detour and the walk was incredibly satisfying just as I had hoped for.
 
-![](https://i.imgur.com/W7t4JCO.jpeg)
-![](https://i.imgur.com/zRW5VTB.jpeg)
-![](https://i.imgur.com/Wbfypl8.jpeg)
+![](https://live.staticflickr.com/65535/53894598464_741aa20f1a_c_d.jpg)
+![](https://live.staticflickr.com/65535/53892955069_304942fc6c_c_d.jpg)
+![](https://live.staticflickr.com/65535/53893035560_63163f1e7b_c_d.jpg)
 
 I did however, notice that my camera/lenses were a bit misaligned. My viewfinder is blurry, noticeable chromatic aberration, etc... I'll get it fixed some time, but I don't have time right now since I need to take the maximum advantage of summer; all this beautiful natural light can't go to waste.
 

@@ -9,8 +9,8 @@ tags = ['photo-stuff',]
 
 Here's the results:
 
-![](https://i.imgur.com/R2jp0FN.jpeg)
-![](https://i.imgur.com/ydQzYZL.jpeg)
-![](https://i.imgur.com/CD37qGy.jpeg)
+![](https://live.staticflickr.com/65535/53817946788_e9d1ea1296_c_d.jpg)
+![](https://live.staticflickr.com/65535/53818035704_d05dc69c93_c_d.jpg)
+![](https://live.staticflickr.com/65535/53832119177_b515339d8b_c_d.jpg)
 
 Wildlife photography is pretty fun, a lot more unique than my usual landscapes. You can see more [on my Flickr](https://flickr.com/blackwavesofenergy/) as usual.
