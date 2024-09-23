@@ -1,7 +1,7 @@
 +++
 title = 'Blocklist After a Week'
 date = 2024-09-21T11:29:43+01:00
-draft = false
+draft = true
 tags = ['net-stuff',]
 +++
 
