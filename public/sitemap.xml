@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/post/photo/barred-from-expeditions/</loc>
-    <lastmod>2024-08-21T17:31:06+01:00</lastmod>
+    <loc>http://localhost:1313/post/net/blocklist-after-a-week/</loc>
+    <lastmod>2024-09-21T11:29:43+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-21T11:29:43+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/net-stuff/</loc>
+    <lastmod>2024-09-21T11:29:43+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-09-21T11:29:43+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-09-21T11:29:43+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/photo/cobham-expedition/</loc>
+    <lastmod>2024-09-18T12:28:10+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/net/blocklists-never-again/</loc>
+    <lastmod>2024-09-16T14:46:22+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/other/september-thoughts/</loc>
+    <lastmod>2024-09-13T10:42:01+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/photo/barred-from-expeditions/</loc>
     <lastmod>2024-08-21T17:31:06+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/other-stuff/</loc>
     <lastmod>2024-08-21T17:31:06+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/photo-stuff/</loc>
-    <lastmod>2024-08-21T17:31:06+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-08-21T17:31:06+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-08-21T17:31:06+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/other/a-much-needed-update/</loc>
@@ -55,9 +70,6 @@
   </url><url>
     <loc>http://localhost:1313/post/other/worried-since-2019/</loc>
     <lastmod>2024-06-11T19:16:08+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/net-stuff/</loc>
-    <lastmod>2024-06-09T20:23:18+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/net/the-pain-of-exploits/</loc>
     <lastmod>2024-06-09T20:23:18+01:00</lastmod>
