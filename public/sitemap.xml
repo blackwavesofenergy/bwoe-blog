@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-10-01T16:48:46+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/game-stuff/</loc>
+    <lastmod>2024-10-01T16:48:46+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-10-01T16:48:46+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/game/ryujinx-has-fallen/</loc>
+    <lastmod>2024-10-01T16:48:46+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-01T16:48:46+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/post/net/blocklist-after-a-week/</loc>
     <lastmod>2024-09-21T11:29:43+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-09-21T11:29:43+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/net-stuff/</loc>
-    <lastmod>2024-09-21T11:29:43+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-09-21T11:29:43+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-09-21T11:29:43+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/photo/cobham-expedition/</loc>
@@ -39,9 +45,6 @@
     <lastmod>2024-08-17T16:05:12+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/game/game-fatigue-gone/</loc>
-    <lastmod>2024-08-16T16:05:26+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/game-stuff/</loc>
     <lastmod>2024-08-16T16:05:26+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/photo/aylesbury-expedition/</loc>

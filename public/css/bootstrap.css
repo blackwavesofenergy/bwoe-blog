@@ -3825,6 +3825,7 @@ input[type="submit"].btn.btn-mini {
   margin-left: 0;
   list-style: none;
   background: #bbbbbb;
+  text-transform: lowercase;
 }
 
 .nav > li > a {
