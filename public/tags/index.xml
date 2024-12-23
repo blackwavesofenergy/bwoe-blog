@@ -6,8 +6,15 @@
     <description>Recent content in Tags on bwoe</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 16 Dec 2024 16:30:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 12:48:57 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Net-Stuff</title>
+      <link>http://localhost:1313/tags/net-stuff/</link>
+      <pubDate>Mon, 23 Dec 2024 12:48:57 +0000</pubDate>
+      <guid>http://localhost:1313/tags/net-stuff/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Other-Stuff</title>
       <link>http://localhost:1313/tags/other-stuff/</link>
@@ -20,13 +27,6 @@
       <link>http://localhost:1313/tags/game-stuff/</link>
       <pubDate>Tue, 01 Oct 2024 16:48:46 +0100</pubDate>
       <guid>http://localhost:1313/tags/game-stuff/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Net-Stuff</title>
-      <link>http://localhost:1313/tags/net-stuff/</link>
-      <pubDate>Sat, 21 Sep 2024 11:29:43 +0100</pubDate>
-      <guid>http://localhost:1313/tags/net-stuff/</guid>
       <description></description>
     </item>
     <item>

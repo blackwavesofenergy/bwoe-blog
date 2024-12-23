@@ -6,8 +6,15 @@
     <description>Recent content in Net-Stuff on bwoe</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 21 Sep 2024 11:29:43 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 12:48:57 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/net-stuff/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Blocked Almost Every Site for a Year - This is What Happened</title>
+      <link>http://localhost:1313/post/net/blocked-almost-every-site-for-a-year/</link>
+      <pubDate>Mon, 23 Dec 2024 12:48:57 +0000</pubDate>
+      <guid>http://localhost:1313/post/net/blocked-almost-every-site-for-a-year/</guid>
+      <description>&lt;p&gt;So in my posts &lt;a href=&#34;../the-internet-is-hell&#34;&gt;The Internet is Hell&lt;/a&gt; and &lt;a href=&#34;../about-blocklists&#34;&gt;About My Blocklists&lt;/a&gt;, I explained a strategy that I was taking for the year: extreme isolation from the ebb and flow of the internet using Cold Turkey Blocker and a generous amount of browser extensions. I should also add that I installed browser extensions like uBlacklist to block search engine results, Shut Up to block comments, etc. Extreme measures, but measures that I thought would improve my mental health and distance me from the noise of the 2020s Information Age.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Blocklist After a Week</title>
       <link>http://localhost:1313/post/net/blocklist-after-a-week/</link>
