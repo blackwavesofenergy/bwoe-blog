@@ -12,6 +12,3 @@ And so, as of October 2024, there is no actively maintained Nintendo Switch emul
 There's plenty of other bad video game news I could talk about - fuck those layoffs - but the complete elimination of a sector of hardware emulation is unprecedented. I've been in the scene since the days of ZSNES, and I've never seen anything like this. Of course, angry users will blame Nintendo's reluctance on such dated hardware for the widespread popularity of Switch emulation, but one must remember that Dolphin - the Nintendo GameCube / Wii emulator - flourished even around 2010/2011, and was able to successfully launch and play Nintendo Wii games during its lifespan. I specifically remember playing *Kirby's Return to Dream Land* on my PC at full speed despite not having a Wii at the time. It's possible that Nintendo has simply become more bullish with its intellectual property over time.
 
 What is next for the dedicated emulation scene? 
-
-UPDATE: This excellent video from Nerrel has a better, easily understandable explanation of the situation better than I can ever comment:
-

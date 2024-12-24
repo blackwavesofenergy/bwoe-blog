@@ -237,7 +237,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;bwoe, aka Magdi, is a &lt;del&gt;27&lt;/del&gt; 28-year old photographer, graphic designer, web developer, video game &lt;del&gt;fanatical&lt;/del&gt; on-sabbatical, university dropout, guitarist, cinephile, and general nutcase.&lt;/p&gt;&#xA;&lt;p&gt;I like landscapes, Don Hertzfeldt, mechanical keyboards, psychological manga, Liverpool FC, Web 1.0, sleep, nonograms,typography, Westerns,&lt;/p&gt;&#xA;&lt;p&gt;I dislike Zoomers, winter, social media, Bluetooth, ‘80s throwbacks’, TVTropes, music streaming, chain restaurants, Microsoft Windows,&lt;/p&gt;</description>
+      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Likes&lt;/th&gt;&#xA;          &lt;th&gt;Dislikes&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;photography, fingerstyle guitar, mechanical keyboards, Don Hertzfeldt, psychological manga, Liverpool FC, Web 1.0, nonograms, sleep, Westerns, typography, cider, journaling&lt;/td&gt;&#xA;          &lt;td&gt;Zoomers, winter, social media, Bluetooth, &amp;lsquo;80&amp;rsquo;s throwbacks&amp;rsquo;, TVtropes, music streaming, chain restaurants, Microsoft Windows, card games, coach buses&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>
