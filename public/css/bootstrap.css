@@ -2052,6 +2052,11 @@ table {
   border-spacing: 0;
 }
 
+th {
+  color: white !important;
+  font-size: 125%;
+}
+
 .table {
   width: 100%;
   margin-bottom: 20px;

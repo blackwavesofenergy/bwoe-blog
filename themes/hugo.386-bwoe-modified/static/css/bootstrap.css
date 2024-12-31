@@ -2064,6 +2064,7 @@ table {
   text-align: left;
   vertical-align: top;
   border-top: 2px solid #dddddd;
+  color: white !important;
 }
 
 .table th {
