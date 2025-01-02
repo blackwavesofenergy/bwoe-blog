@@ -2052,11 +2052,6 @@ table {
   border-spacing: 0;
 }
 
-th {
-  color: white !important;
-  font-size: 125%;
-}
-
 .table {
   width: 100%;
   margin-bottom: 20px;
@@ -2069,6 +2064,7 @@ th {
   text-align: left;
   vertical-align: top;
   border-top: 2px solid #dddddd;
+  color: white !important;
 }
 
 .table th {
