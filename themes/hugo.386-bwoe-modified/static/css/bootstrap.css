@@ -2069,10 +2069,14 @@ table {
 
 .table th {
   font-weight: normal;
+  color: white !important;
+  font-size: 125%;
 }
 
 .table thead th {
   vertical-align: bottom;
+  color: white !important;
+  font-size: 125%;
 }
 
 .table caption + thead tr:first-child th,

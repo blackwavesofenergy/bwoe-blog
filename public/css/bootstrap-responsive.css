@@ -799,6 +799,28 @@
   }
 }
 
+.table th,
+.table td {
+  padding: 8px;
+  line-height: 20px;
+  text-align: left;
+  vertical-align: top;
+  border-top: 2px solid #dddddd;
+  color: white !important;
+}
+
+.table th {
+  font-weight: normal;
+  color: white !important;
+  font-size: 125%;
+}
+
+.table thead th {
+  vertical-align: bottom;
+  color: white !important;
+  font-size: 125%;
+}
+
 @media (max-width: 767px) {
   body {
     padding-right: 18px;
