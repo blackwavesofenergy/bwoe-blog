@@ -2053,7 +2053,7 @@ table {
 }
 
 .table {
-  width: 100%;
+  width: 75%;
   margin-bottom: 20px;
 }
 
@@ -2067,17 +2067,12 @@ table {
   color: white !important;
 }
 
-.table th {
+table th {
   font-weight: normal;
   color: white !important;
   font-size: 125%;
 }
 
-.table thead th {
-  vertical-align: bottom;
-  color: white !important;
-  font-size: 125%;
-}
 
 .table caption + thead tr:first-child th,
 .table caption + thead tr:first-child td,
