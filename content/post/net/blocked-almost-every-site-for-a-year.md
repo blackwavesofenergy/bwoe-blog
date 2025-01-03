@@ -17,8 +17,4 @@ It also meant that I added more and more websites to my blacklist as time went o
 
 There was another problem: exploiting the setup. Blocklists + search engine blocking + comment blocking sounded airtight, but the withdrawals of internet addiction led me to exploits. I talk more about it here. Simply put, instead of browsing subconsciously and losing time mindlessly, I found myself stuck between finding exploits and keeping myself from finding exploits. More exhaustion.
 
-Got it! Here's a less serious revision:
-
-Did it work? Well, sometimes. Keeping a ‘study whitelist’ (which I cheekily named Digital Methylphenidate) was good for productivity, and not burdening myself with doomscrolling and other post-internet social phenomena helped me stay sharper and more focused.
-
 I *do* think that the strategy of blocking websites for productivity and mental well-being is a good one. But if you're looking for detox, have some grasp on the real world. You may not be interested in the chaos, but the chaos is interested in you.
