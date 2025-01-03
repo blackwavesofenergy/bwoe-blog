@@ -5,7 +5,7 @@ draft = false
 tags = ['net-stuff',]
 +++
 
-So in my posts [The Internet is Hell](../the-internet-is-hell) and [About My Blocklists](../about-blocklists), I explained a strategy that I was taking for the year: extreme isolation from the ebb and flow of the internet using Cold Turkey Blocker and a generous amount of browser extensions. I should also add that I installed browser extensions like uBlacklist to block search engine results, Shut Up to block comments, etc. Extreme measures, but measures that I thought would improve my mental health and distance me from the noise of the 2020s Information Age.
+So in my now-deleted posts *The Internet is Hell* and *About My Blocklists*, I explained a strategy that I was taking for the year: extreme isolation from the ebb and flow of the internet using Cold Turkey Blocker and a generous amount of browser extensions. I should also add that I installed browser extensions like uBlacklist to block search engine results, Shut Up to block comments, etc. Extreme measures, but measures that I thought would improve my mental health and distance me from the noise of the 2020s Information Age.
 
 Did it work? Well, sometimes. Keeping a ‘study whitelist’ (which I cheekily named *Digital Methylphenidate*) was good for productivity, and not burdening myself with doomscrolling and other post-internet social phenomena was a good feeling at times.
 

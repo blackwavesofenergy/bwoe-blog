@@ -1,7 +1,7 @@
 +++
 title = 'The Internet Is Hell'
 date = 2024-05-07T18:42:48+01:00
-draft = false
+draft = true
 tags = ['net-stuff',]
 +++
 

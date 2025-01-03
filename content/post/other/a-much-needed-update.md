@@ -16,4 +16,6 @@ What I'm not okay with, though, is the persisting anxiety. While I indulge in my
 
 I stagnate, but what is being stagnated? I'll be 28 years old soon - what have I accomplished? Will I be on my deathbed wishing I consumed more media? Things can't continue like this, surely.
 
-In other news, I also got [created a Letterboxd account](https://letterboxd.com/user/bwoe), but it's far from complete and I'm hesitant if I should go all out like back in the old days (I deleted my previous account also in 2019). I'll have my thoughts on this on a later blog post.
+~~In other news, I also got [created a Letterboxd account](https://letterboxd.com/user/bwoe), but it's far from complete and I'm hesitant if I should go all out like back in the old days (I deleted my previous account also in 2019). I'll have my thoughts on this on a later blog post.~~
+
+UPDATE: Deleted it again. My god, Film Twitter has terminally infected it - no thanks.
