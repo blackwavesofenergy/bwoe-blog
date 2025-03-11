@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game-Stuff on bwoe</title>
-    <link>http://localhost:1313/tags/game-stuff/</link>
+    <link>https://example.org/tags/game-stuff/</link>
     <description>Recent content in Game-Stuff on bwoe</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 01 Oct 2024 16:48:46 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/game-stuff/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/game-stuff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ryujinx Has Fallen</title>
-      <link>http://localhost:1313/post/game/ryujinx-has-fallen/</link>
+      <link>https://example.org/post/game/ryujinx-has-fallen/</link>
       <pubDate>Tue, 01 Oct 2024 16:48:46 +0100</pubDate>
-      <guid>http://localhost:1313/post/game/ryujinx-has-fallen/</guid>
+      <guid>https://example.org/post/game/ryujinx-has-fallen/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s been a while since I wrote about games, but it comes with some more bitter news. &lt;a href=&#34;../citra-yuzu-gone&#34;&gt;Citra and Yuzu were struck down by Nintendo earlier this year&lt;/a&gt;, and thus for seven months, Ryujinx was the only updated Nintendo Switch emulator. They were far more discreet than the Yuzu development team, and were also not based in the US, so it was expected that the Ryujinx team would hold out from Nintendo&amp;rsquo;s legal team, especially in the grey area that is video game emulation. But alas, it was not to be. While there was no lawsuit, the lead developer had arranged with Nintendo to shut down the project, sparing them any headaches.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Game Fatigue Ends</title>
-      <link>http://localhost:1313/post/game/game-fatigue-gone/</link>
+      <link>https://example.org/post/game/game-fatigue-gone/</link>
       <pubDate>Fri, 16 Aug 2024 16:05:26 +0100</pubDate>
-      <guid>http://localhost:1313/post/game/game-fatigue-gone/</guid>
+      <guid>https://example.org/post/game/game-fatigue-gone/</guid>
       <description>&lt;p&gt;Sometime around 2 July, my gaming fatigue disappeared. The Steam Summer sale and an increase of mood allowed me to get into my favourite hobby again. Moreover, &lt;a href=&#34;../the-closure-of-tango&#34;&gt;while I wrote about how demoralised I was over Tango Gameworks&amp;rsquo;s closure&lt;/a&gt;, a factor in the fatigue, some great news happened since - they have been bought and re-opened by Krafton (a South Korean game studio) and brought the Hi-Fi Rush IP with them! Now the spark has really come back. Here is what I&amp;rsquo;ve been playing since:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Game Fatigue Continues</title>
-      <link>http://localhost:1313/post/game/game-fatigue-continues/</link>
+      <link>https://example.org/post/game/game-fatigue-continues/</link>
       <pubDate>Thu, 13 Jun 2024 15:22:23 +0100</pubDate>
-      <guid>http://localhost:1313/post/game/game-fatigue-continues/</guid>
+      <guid>https://example.org/post/game/game-fatigue-continues/</guid>
       <description>&lt;p&gt;Day 40 of the Great Gaming Fatigue of 2024. The impact of Tango Gameworks&amp;rsquo;s closing continues to ripple. The only game I &amp;lsquo;play&amp;rsquo; is Super Smash Bros. Ultimate, which I&amp;rsquo;m going to sell today because I don&amp;rsquo;t want to fucking play it anymore, it makes me too mad. I&amp;rsquo;m also selling Dragon Quest XI S on the Nintendo Switch. A game that means a lot to me - it helped get me through my 2019 breakdown and COVID - but I just need to get out of my library to make a quick buck. It&amp;rsquo;s sad&amp;hellip; wait, no it&amp;rsquo;s not, it&amp;rsquo;s just a video game.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Closure of Tango Gameworks</title>
-      <link>http://localhost:1313/post/game/the-closure-of-tango/</link>
+      <link>https://example.org/post/game/the-closure-of-tango/</link>
       <pubDate>Wed, 08 May 2024 18:20:23 +0100</pubDate>
-      <guid>http://localhost:1313/post/game/the-closure-of-tango/</guid>
+      <guid>https://example.org/post/game/the-closure-of-tango/</guid>
       <description>&lt;p&gt;In early 2023, I felt like gaming wasn&amp;rsquo;t fun anymore. I knew it was a common fatigue though, and that there&amp;rsquo;ll be a game that I&amp;rsquo;ll play soon that would inject that fun and soul only the medium could provide. That happened when &lt;em&gt;Hi-Fi Rush&lt;/em&gt; shadow dropped in January 2023. With its gorgeous &lt;em&gt;Futurama&lt;/em&gt;-esque aesthetics and comedic tone and excellent reviews, I bought it and fell in love immediately. The catharsis of the character action and rhythm genres, joined at last in spectacular fashion. It cured my fatigue. In 2023, despite sharing my time with work, photography, and vacations with my family, I completed an 70 video games thanks to my renewed love of gaming attributed to &lt;em&gt;Hi-Fi Rush&lt;/em&gt; (not to mention that 2023 was a great year for gaming in general).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Citra and Yuzu are gone</title>
-      <link>http://localhost:1313/post/game/citra-yuzu-gone/</link>
+      <link>https://example.org/post/game/citra-yuzu-gone/</link>
       <pubDate>Mon, 04 Mar 2024 23:25:11 +0000</pubDate>
-      <guid>http://localhost:1313/post/game/citra-yuzu-gone/</guid>
+      <guid>https://example.org/post/game/citra-yuzu-gone/</guid>
       <description>&lt;p&gt;Well, damn. It was &lt;a href=&#34;../flatpak-emu-problems&#34;&gt;literally just yesterday&lt;/a&gt; that I uploaded about emulation problems, but now we have a different type of emulation problem: Citra and Yuzu are gone.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ICEr3ig.png&#34; alt=&#34;y&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This is relevant because I was talking about a fatal bug for Dolphin, which also affected Citra (and RPCS3). The fix for Citra was uploaded LITERALLY YESTERDAY, meaning had the Citra/Yuzu team (the same dev team) hadn&amp;rsquo;t updated it, the last version of Citra on Flathub would be forever unbootable.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Flatpak Emu Problems of March 2024</title>
-      <link>http://localhost:1313/post/game/flatpak-emu-problems/</link>
+      <link>https://example.org/post/game/flatpak-emu-problems/</link>
       <pubDate>Sun, 03 Mar 2024 18:09:36 +0000</pubDate>
-      <guid>http://localhost:1313/post/game/flatpak-emu-problems/</guid>
+      <guid>https://example.org/post/game/flatpak-emu-problems/</guid>
       <description>&lt;p&gt;So recently, there was some bizarre emulation problems. The issue didn&amp;rsquo;t come with the Steam Deck, or EmuDeck, but with the emulators themselves, specifically the Flatpak version commonly used in Linux.&lt;/p&gt;&#xA;&lt;p&gt;Dolphin, RPCS3, and Citra all were nonfunctional out of nowhere. Citra was quickly patched, but Dolphin and RPCS3 are still unable to boot as of this post. Booting them reveals no error message or dumped log. Booting them via CLI (i.e. &lt;code&gt;flatpak run org.DolphinEmu.dolphin-emu&lt;/code&gt;) gives you the following message:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Settings for Citra</title>
-      <link>http://localhost:1313/post/game/citra-settings/</link>
+      <link>https://example.org/post/game/citra-settings/</link>
       <pubDate>Fri, 23 Feb 2024 20:33:14 +0000</pubDate>
-      <guid>http://localhost:1313/post/game/citra-settings/</guid>
+      <guid>https://example.org/post/game/citra-settings/</guid>
       <description>&lt;p&gt;Playing 3DS games on a single screen can be tough. The vertical form factor of the 3DS makes gaming quite the challenge when emulating. So, these are my preferred Citra settings. Feel free to use or improve them.&lt;/p&gt;&#xA;&lt;h1 id=&#34;picross-3d&#34;&gt;Picross 3D&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Main screen: bottom&lt;/li&gt;&#xA;&lt;li&gt;Other screen: small or disabled&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Use a mouse and keyboard for this one, with d-pad and L buttons being used for controls. Other screen is not required.&lt;/p&gt;</description>
     </item>
   </channel>
