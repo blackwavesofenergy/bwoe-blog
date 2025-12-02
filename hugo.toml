@@ -26,22 +26,22 @@ theme = 'hugo.386-bwoe-modified'
         url = "/about/"      # The path to the content. It can lead to a single page (like here)
         weight = 10          # A number to order the buttons in the navbar
     [[menu.main]]
-      identifer = "game"
+      identifier = "game"
       name = "game"
       url = "/tags/game-stuff"
       weight = 20
     [[menu.main]]
-      identifer = "net"
+      identifier = "net"
       name = "net"
       url = "/tags/net-stuff"
       weight = 30
     [[menu.main]]
-     identifer = "photo"
+     identifier = "photo"
      name = "photo"
      url = "/tags/photo-stuff"
      weight = 40
      [[menu.main]]
-     identifer = "other"
+     identifier = "other"
      name = "other"
      url = "/tags/other-stuff"
      weight = 50

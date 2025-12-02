@@ -33,7 +33,7 @@ draft = false
 2013: got my first smartphone (htc one m7) - thus experiencing the death of the internet I cherished
 2014: got my first instrument (a shitty £99 acoustic guitar)
 2015: entered university
-2029: left university
+2019: left university
 2023: experienced ego death
 2024: made this website. hello!
 |
