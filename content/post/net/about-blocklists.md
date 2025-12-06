@@ -2,7 +2,7 @@
 title = 'About My Blocklists'
 date = 2024-05-23T16:39:18+01:00
 draft = true
-tags = ['net-stuff',]
+tags = ['net',]
 +++
 
 In an [earlier post](../the-internet-is-hell), I explained how I used Cold Turkey Blocker to keep me sane. Today I'll go over the blocklists I use and how I cycle between them for maximum efficiency and sanity-preservation.

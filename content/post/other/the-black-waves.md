@@ -2,7 +2,7 @@
 title = 'The Black Waves'
 date = 2024-05-31T16:24:45+01:00
 draft = true
-tags = ['other-stuff',]
+tags = ['other',]
 +++
 
 In the beginning of 2023, I brought a sparkling new Macbook Pro and a subscription to *Day One*, and started a blog - *Magdi Battles the Black Waves*. It was intended to last for a year, but I only managed to keep track until August.

@@ -2,7 +2,7 @@
 title = 'The Internet Is Hell'
 date = 2024-05-07T18:42:48+01:00
 draft = true
-tags = ['net-stuff',]
+tags = ['net',]
 +++
 
 God bless [Cold Turkey Blocker](https://getcoldturkey.com/). What would I do without you? Well, live in a more honest world, an honestly shittier world. In my blocklist called 'Digital Alprazolam' which lasts for the end of time and cannot be deactivated without uninstalling Cold Turkey. I have blocked 500+ sites, including popular social media psyop tools like Facebook, Twitter, Instagram, LinkedIn and the like. If I need to apply for a job with LinkedIn, then I'll stay unemployed, thank you very much.

@@ -28,22 +28,22 @@ theme = 'hugo.386-bwoe-modified'
     [[menu.main]]
       identifier = "game"
       name = "game"
-      url = "/tags/game-stuff"
+      url = "/tags/game"
       weight = 20
     [[menu.main]]
       identifier = "net"
       name = "net"
-      url = "/tags/net-stuff"
+      url = "/tags/net"
       weight = 30
     [[menu.main]]
      identifier = "photo"
      name = "photo"
-     url = "/tags/photo-stuff"
+     url = "/tags/photo"
      weight = 40
      [[menu.main]]
      identifier = "other"
      name = "other"
-     url = "/tags/other-stuff"
+     url = "/tags/other"
      weight = 50
 
 [taxonomies]

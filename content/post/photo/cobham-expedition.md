@@ -2,7 +2,7 @@
 title = 'Cobham Expedition'
 date = 2024-09-18T12:28:10+01:00
 draft = false
-tag = ['photo-stuff',]
+tag = ['photo',]
 +++
 
 It's midday. I'm tired as shit, I woke up at 4am, I've spending the past few days tiring myself out trying to rearrange my house to accommodate family, and I'm on a train to Stoke & Cobham, on the shitty South Western Railway. For a train that takes you to posh-arse Surrey, it sure is a disaster of a train service. No air conditioning, old and dirty carriages, not even a tray on the seats. But there's a short spell of sun - a week of natural light - and I need to make the most of it before the autumn clouds destroy what's left of the summer. (Of course, it's not like photography has a time limit, but I got to wait for autumn foliage to make the most of the season.)

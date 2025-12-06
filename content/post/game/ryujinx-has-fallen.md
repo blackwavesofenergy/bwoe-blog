@@ -2,7 +2,7 @@
 title = 'Ryujinx Has Fallen'
 date = 2024-10-01T16:48:46+01:00
 draft = false
-tags = ['game-stuff',]
+tags = ['game',]
 +++
 
 It's been a while since I wrote about games, but it comes with some more bitter news. [Citra and Yuzu were struck down by Nintendo earlier this year](../citra-yuzu-gone), and thus for seven months, Ryujinx was the only updated Nintendo Switch emulator. They were far more discreet than the Yuzu development team, and were also not based in the US, so it was expected that the Ryujinx team would hold out from Nintendo's legal team, especially in the grey area that is video game emulation. But alas, it was not to be. While there was no lawsuit, the lead developer had arranged with Nintendo to shut down the project, sparing them any headaches.

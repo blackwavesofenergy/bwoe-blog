@@ -2,7 +2,7 @@
 title = 'Blocklist After a Week'
 date = 2024-09-21T11:29:43+01:00
 draft = true
-tags = ['net-stuff',]
+tags = ['net',]
 +++
 
 So, I had a week where I essentially had no internet apart from a few crucial sites after I decided to mess around with [Cold Turkey Blocker](https://getcoldturkey.com/). 

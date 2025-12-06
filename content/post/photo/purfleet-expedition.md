@@ -2,7 +2,7 @@
 title = 'Purfleet Expedition'
 date = 2024-07-20T14:55:11+01:00
 draft = false
-tags = ['photo-stuff',]
+tags = ['photo',]
 +++
 
 London was ~32C yesterday, and good weather like this is perfect for my photo expeditions. This time, I wanted to knock the Purfleet Riverfront/Rainham Marshes/whatever-the-fuck-it's-called. I thought it was rather underwhelming, but I've had it on my bucket list for a long time, and it's FREE!

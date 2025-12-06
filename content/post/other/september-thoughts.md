@@ -2,7 +2,7 @@
 title = 'September Thoughts'
 date = 2024-09-13T10:42:01+01:00
 draft = false
-tag = ['other-stuff',]
+tag = ['other',]
 +++
 
 Another much needed post. Once again, miscellaneous troubles cause hesitancy to update. Stress, anxiety and insomnia has come back full force, derailing any plans I had for the month. The end of summer and colder weather has also obstructed my usual photography opportunities. It's been over a month since I've picked up my camera, and longer still since my last expedition in Aylesbury.

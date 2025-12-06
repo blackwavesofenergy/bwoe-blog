@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Net on bwoe</title>
+    <link>http://localhost:1313/tags/net/</link>
+    <description>Recent content in Net on bwoe</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 23 Dec 2024 12:48:57 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Blocked Almost Every Site for a Year - This is What Happened</title>
+      <link>http://localhost:1313/post/net/blocked-almost-every-site-for-a-year/</link>
+      <pubDate>Mon, 23 Dec 2024 12:48:57 +0000</pubDate>
+      <guid>http://localhost:1313/post/net/blocked-almost-every-site-for-a-year/</guid>
+      <description>&lt;p&gt;So in my now-deleted posts &lt;em&gt;The Internet is Hell&lt;/em&gt; and &lt;em&gt;About My Blocklists&lt;/em&gt;, I explained a strategy that I was taking for the year: extreme isolation from the ebb and flow of the internet using Cold Turkey Blocker and a generous amount of browser extensions. I should also add that I installed browser extensions like uBlacklist to block search engine results, Shut Up to block comments, etc. Extreme measures, but measures that I thought would improve my mental health and distance me from the noise of the 2020s Information Age.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

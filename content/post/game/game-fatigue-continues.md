@@ -2,7 +2,7 @@
 title = 'Game Fatigue Continues'
 date = 2024-06-13T15:22:23+01:00
 draft = false
-tags = ['game-stuff',]
+tags = ['game',]
 description = 'Years ago, I would be ecstatic for the summer game season. Not anymore...'
 +++
 

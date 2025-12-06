@@ -2,7 +2,7 @@
 title = 'Meds'
 date = 2024-07-03T14:06:35+01:00
 draft = true
-tags = ['other-stuff',]
+tags = ['other',]
 +++
 
 A wise girl once said:

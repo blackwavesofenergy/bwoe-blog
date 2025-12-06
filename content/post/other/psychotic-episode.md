@@ -2,7 +2,7 @@
 title = 'Psychotic Episode'
 date = 2024-07-15T19:21:46+01:00
 draft = true
-tags = ['other-stuff',]
+tags = ['other',]
 +++
 
 > I am the anti-psychotic,

@@ -2,7 +2,7 @@
 title = 'Blocklists Never Again'
 date = 2024-09-16T14:46:22+01:00
 draft = true
-tags = ['net-stuff',]
+tags = ['net',]
 +++
 
 I found a way to disable my blocklists, and I used it to browse some YT videos to see the comments/responses.

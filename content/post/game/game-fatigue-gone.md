@@ -2,7 +2,7 @@
 title = 'Game Fatigue Ends'
 date = 2024-08-16T16:05:26+01:00
 draft = false
-tags = ['game-stuff',]
+tags = ['game',]
 +++
 
 Sometime around 2 July, my gaming fatigue disappeared. The Steam Summer sale and an increase of mood allowed me to get into my favourite hobby again. Moreover, [while I wrote about how demoralised I was over Tango Gameworks's closure](../the-closure-of-tango), a factor in the fatigue, some great news happened since - they have been bought and re-opened by Krafton (a South Korean game studio) and brought the Hi-Fi Rush IP with them! Now the spark has really come back. Here is what I've been playing since:

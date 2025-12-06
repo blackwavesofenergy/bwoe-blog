@@ -2,7 +2,7 @@
 title = 'Phantom Pain'
 date = 2024-06-06T15:22:50+01:00
 draft = false
-tags = ['other-stuff',]
+tags = ['other',]
 +++
 
 I haven't updated the blog in a while because I was sick for a while - aches and headaches all over. But today I feel normal. And of course, when there's fever, there's fever dreams. And last night's fever dream was something else.

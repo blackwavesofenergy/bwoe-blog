@@ -2,7 +2,7 @@
 title = 'A Much Needed Update'
 date = 2024-08-17T16:05:12+01:00
 draft = false
-tags = ['other-stuff',]
+tags = ['other',]
 +++
 
 I've been 'away' for a while. Okay, it's only been two weeks since my last blog post, but a lot has happened. Anxiety over the news and family situations has resulted in me relapsing in a reclusive state, doing nothing but lying in my bed playing video games. But hey, [at least I'm playing video games for once!](../../game/game-fatigue-gone/) 

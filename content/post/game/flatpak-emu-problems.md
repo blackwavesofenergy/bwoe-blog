@@ -2,7 +2,7 @@
 title = 'Flatpak Emu Problems of March 2024'
 date = 2024-03-03T18:09:36Z
 draft = false
-tags = ['game-stuff',]
+tags = ['game',]
 +++
 
 So recently, there was some bizarre emulation problems. The issue didn't come with the Steam Deck, or EmuDeck, but with the emulators themselves, specifically the Flatpak version commonly used in Linux.

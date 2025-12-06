@@ -2,7 +2,7 @@
 title = 'Aylesbury Expedition'
 date = 2024-08-03T16:21:39+01:00
 draft = false
-tags = ['photo-stuff',]
+tags = ['photo',]
 +++
 
 On 30 July, I went on another photography expedition. I wanted to go to Hastings the day before, but I was late because of some stupid shenanigans back home. £20 down the drain... I could have tried again, but this time I went to Aylesbury - specifically, walking from Wendover station to Little Kimble station.

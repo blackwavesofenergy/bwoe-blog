@@ -2,7 +2,7 @@
 title = 'Worried Since 2019'
 date = 2024-06-11T19:16:08+01:00
 draft = true
-tags = ['other-stuff',]
+tags = ['other',]
 description = 'I want escape.'
 +++
 

@@ -2,7 +2,7 @@
 title = 'Photo Expeditions'
 date = 2024-06-24T17:08:18+01:00
 draft = false
-tags = ['photo-stuff',]
+tags = ['photo',]
 +++
 
 When the sun and its sweet, sweet natural light is out, I feel an urge to go on a photo expedition. What is a photo expedition, you may ask? It's a trip outside of my home town of London, in the rural English countryside, where I spend a day alone taking pictures and listening to my happiest music. With no browser on my phone, there is no need to worry about the state of the world - the outdoors and its photogenicity are all that matters. Examples of such expeditions include:

@@ -2,7 +2,7 @@
 title = 'Late Year Update - Been a While'
 date = 2024-12-16T16:30:32Z
 draft = false
-tags = ['other-stuff',]
+tags = ['other',]
 +++
 
 It’s been two months since I’ve updated the blog. I have a lot on my mind, so let me just compose my thoughts like this.
