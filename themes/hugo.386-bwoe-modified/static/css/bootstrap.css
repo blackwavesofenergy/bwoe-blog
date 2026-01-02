@@ -229,6 +229,7 @@ textarea {
   font-style: normal;
   font-weight: normal;
   src: url('fonts/Teletext.otf');
+  font-display: block;
 }
 
 @font-face {
@@ -236,6 +237,7 @@ textarea {
   font-style: normal;
   font-weight: normal;
   src: url('fonts/TeletextSemiCondensed.otf');
+  font-display: block;
 }
 
 @font-face {
@@ -243,6 +245,7 @@ textarea {
   font-style: normal;
   font-weight: normal;
   src: url('fonts/TeletextCondensed.otf');
+  font-display: block;
 }
 
 @font-face {
@@ -250,6 +253,7 @@ textarea {
   font-style: normal;
   font-weight: normal;
   src: url('fonts/TeletextExtended.otf');
+  font-display: block;
 }
 
 

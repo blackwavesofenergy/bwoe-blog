@@ -6,6 +6,57 @@
     <meta name="format-detection" content="telephone=no" />
     <link rel="icon" href="{{ .Site.BaseURL }}/favicon.ico">
     <link rel="canonical" href="{{ .Site.BaseURL }}">
-    {{/* Don't ask why it's like this. This original theme is a mess... */}}
-    <!-- <noscript><style>body { visibility: visible }</style></noscript> -->
+
+    <style>
+        /* Critical CSS to prevent FOUC */
+        html, body {
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Loading animation */
+        #loader {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: black;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 9999;
+            font-family: 'Courier New', monospace;
+            font-size: 24px;
+            color: white;
+        }
+
+        #loader.loaded {
+            animation: fadeOut 0.5s ease-out forwards;
+        }
+
+        @keyframes fadeOut {
+            to {
+                opacity: 0;
+                visibility: hidden;
+            }
+        }
+
+        .spinner::after {
+            content: '|';
+            animation: spinChar 0.6s steps(4) infinite;
+        }
+
+        @keyframes spinChar {
+            0% { content: '|'; }
+            25% { content: '/'; }
+            50% { content: '—'; }
+            75% { content: '\\'; }
+        }
+    </style>
+
+    <link rel="preload" href="{{ "css/fonts/Teletext.otf" | relURL }}" as="font" type="font/otf" crossorigin>
+    <link rel="preload" href="{{ "css/fonts/TeletextSemiCondensed.otf" | relURL }}" as="font" type="font/otf" crossorigin>
+    <link rel="preload" href="{{ "css/fonts/TeletextCondensed.otf" | relURL }}" as="font" type="font/otf" crossorigin>
+    <link rel="preload" href="{{ "css/fonts/TeletextExtended.otf" | relURL }}" as="font" type="font/otf" crossorigin>
 </head>

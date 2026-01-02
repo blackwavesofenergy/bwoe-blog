@@ -20,9 +20,9 @@
 <script src="{{ "js/bootstrap-typeahead.js" | relURL }}" defer></script>
 <script src="{{ "js/bootstrap-affix.js" | relURL }}" defer></script>
 <script>
-    _386 = { 
+    _386 = {
         fastLoad:{{ .Site.Params.loadfastload }},
-        onePass:{{ .Site.Params.loadonepass }}, 
+        onePass:{{ .Site.Params.loadonepass }},
         speedFactor:{{ .Site.Params.loadspeedfactor }}
     };
 
@@ -30,6 +30,24 @@
     function ThisYear() {
         document.getElementById('thisyear').innerHTML = new Date().getFullYear();
     };
+
+    // Loading animation handler
+    document.addEventListener("DOMContentLoaded", function() {
+        const loader = document.getElementById("loader");
+        const pageContent = document.getElementById("page-content");
+
+        // Wait for fonts to load
+        document.fonts.ready.then(() => {
+            // Hide loader
+            loader.classList.add("loaded");
+
+            // Show content after a brief delay
+            setTimeout(() => {
+                pageContent.style.display = "";
+                ThisYear(); // Update the year
+            }, 500);
+        });
+    });
 </script>
 {{- range .Site.Params.customJS }}
 <script src="{{ . | relURL }}" defer></script>

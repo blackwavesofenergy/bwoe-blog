@@ -1,12 +1,18 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang }}">
+<html lang="{{ .Site.Language.Lang }}" style="background-color: black;">
     {{- partial "head.html" . -}}
     <body>
-        {{- partial "header.html" . -}}
-        <div id="content" class="container">
-        {{- block "main" . }}{{- end }}
+        <div id="loader">
+            <div>LOADING <span class="spinner"></span></div>
         </div>
-        {{- partial "footer.html" . -}}
+
+        <div id="page-content" style="display: none;">
+            {{- partial "header.html" . -}}
+            <div id="content" class="container">
+            {{- block "main" . }}{{- end }}
+            </div>
+            {{- partial "footer.html" . -}}
+        </div>
     </body>
     {{- partial "scripts.html" . -}}
 </html>
